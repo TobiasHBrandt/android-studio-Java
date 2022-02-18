@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApiClient</string>
+    <string name="name">name</string>
+    <string name="job">job</string>
+    <string name="age">age</string>
+    <string name="haircolor">haircolor</string>
+    <string name="student">student</string>
+    <string name="gender">gender</string>
+    <string name="update_successful">Update_Successful</string>
+</resources>
