@@ -1,3 +1,3 @@
 # android-studio-Java
-main is from android studio
-MyWebApi is from eclipse
+main folder is from android studio
+MyWebApi folder is from eclipse
